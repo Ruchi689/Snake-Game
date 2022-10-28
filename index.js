@@ -1,6 +1,6 @@
 let inputDir = {x:0, y:0};
 let score = 0;
-let speed = 5;
+let speed = 6;
 let lastPaintTime = 0;
 let snakeArr =[
     {x:13, y:15}
